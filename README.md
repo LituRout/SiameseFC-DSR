@@ -10,11 +10,11 @@ SiameseFC-DSR
 
 ![pipeline image][logo]
 
-[logo]: https://github.com/LituRout/SiameseFC-DSR/blob/master/modSiam1.png "Pipeline image"
+[logo]: https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modSiam1.png "Pipeline image"
 - - - -
 CFNet-DSR
 - - - -
-![alt text](https://github.com/LituRout/SiameseFC-DSR/blob/master/modCF1.png)
+![alt text](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modCF1.png)
 - - - -
 If you find our work useful, please cite:
 ```
