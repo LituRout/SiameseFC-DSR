@@ -1,5 +1,11 @@
 ## Rotation Adaptive Visual Object Tracking with Motion Consistency
 - - - -
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="/result_videos/fish1_siamfc-dsr.avi" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 WACV published Paper : <https://www.computer.org/csdl/proceedings/wacv/2018/4886/00/488601b047.pdf>
 
 The code in this repository is based on the work originally done by Luca Bertinetto et al. in "Fully-Convolutional Siamese Networks for Object Tracking". We thank Luca Bertinetto and his co-authors for making their code publicly available to all researchers, which helped us a lot in contributing to visual object tracking community. The code in this repository enables you to reproduce the experimental results of our paper. In contrast to their approach, the proposed contributions have been clearly highlighted in our [WACV paper](https://www.computer.org/csdl/proceedings/wacv/2018/4886/00/488601b047.pdf). For successful execution of our tracker `SiameseFC-DSR`, please follow the instructions given below.
