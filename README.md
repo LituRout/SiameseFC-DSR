@@ -1,5 +1,6 @@
 ## Rotation Adaptive Visual Object Tracking with Motion Consistency
 - - - -
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="/result_videos/fish1_siamfc-dsr.avi" frameborder="0" allowfullscreen="true"> </iframe>
