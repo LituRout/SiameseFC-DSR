@@ -11,7 +11,7 @@ SiameseFC-DSR
 - - - -
 CFNet-DSR
 - - - -
-![image2](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modCF1.png "CFNet-DSR")
+![image2](modCF1.png "CFNet-DSR")
 - - - -
 If you find our work useful, please cite:
 ```
