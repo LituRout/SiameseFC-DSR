@@ -8,13 +8,11 @@ The code in this repository is based on the work originally done by Luca Bertine
 SiameseFC-DSR
 - - - -
 
-![pipeline image][logo]
-
-[logo]: https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modSiam1.png "Pipeline image"
+![image](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modSiam1.png)
 - - - -
 CFNet-DSR
 - - - -
-![alt text](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modCF1.png)
+![image](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modCF1.png)
 - - - -
 If you find our work useful, please cite:
 ```
@@ -38,5 +36,5 @@ If you find our work useful, please cite:
 
  [ **Training and tracking** ] We have not trained our model from scratch, therefore we request the reader to follow the instructions of original SiameseFC [training and tracking] (https://github.com/bertinetto/siamese-fc) in order to train the model.
 
-Note: The hyper parameters in the provided code may not be exactly what we have used for our evaluation. So we request the reader to go trough our paper to use the exact settings. However, the provided code is suitable for understanding the key contributions of the paper.
+Note: The hyper parameters in the provided code may not be exactly what we have used for our evaluation. So we request the reader to go through our paper to use the exact hyper parameter settings. However, the provided code is suitable for understanding the key contributions of the paper.
 `This work can only be used for research purposes. For commercial use of this work, please contact the authors.`
