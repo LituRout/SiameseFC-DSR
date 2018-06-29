@@ -1,4 +1,3 @@
-
 ## Rotation Adaptive Visual Object Tracking with Motion Consistency
 - - - -
 WACV published Paper : <https://www.computer.org/csdl/proceedings/wacv/2018/4886/00/488601b047.pdf>
@@ -8,11 +7,11 @@ The code in this repository is based on the work originally done by Luca Bertine
 SiameseFC-DSR
 - - - -
 
-![image](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modSiam1.png)
+![image1](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modSiam1.png "SiameseFC-DSR")
 - - - -
 CFNet-DSR
 - - - -
-![image](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modCF1.png)
+![image2](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modCF1.png "CFNet-DSR")
 - - - -
 If you find our work useful, please cite:
 ```
