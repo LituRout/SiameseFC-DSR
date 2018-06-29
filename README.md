@@ -7,7 +7,7 @@ The code in this repository is based on the work originally done by Luca Bertine
 SiameseFC-DSR
 - - - -
 
-![image1](https://gitlab.com/LituRout/SiameseFC-DSR-master/blob/master/modSiam1.png "SiameseFC-DSR")
+![image1](modSiam1.png "SiameseFC-DSR")
 - - - -
 CFNet-DSR
 - - - -
