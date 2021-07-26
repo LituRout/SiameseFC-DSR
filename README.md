@@ -2,7 +2,7 @@
 - - - -
 WACV published Paper : <https://ieeexplore.ieee.org/document/8354224>
 
-The code in this repository is based on the work originally done by Luca Bertinetto et al. in "Fully-Convolutional Siamese Networks for Object Tracking". We thank Luca Bertinetto and his co-authors for making their code publicly available to all researchers, which helped us a lot in contributing to visual object tracking community. The code in this repository enables you to reproduce the experimental results of the paper. In contrast to their approach, the proposed contributions have been clearly highlighted in this [WACV paper](https://arxiv.org/abs/1709.06057). For successful execution of our tracker `SiameseFC-DSR`, please follow the instructions given below.
+The code in this repository is built upon the work done by Luca Bertinetto et al. in "Fully-Convolutional Siamese Networks for Object Tracking". We thank Luca and his co-authors for making their code publicly available. It helped us build the baseline for participating in the visual object tracking challenge. The code in this repository is expected to reproduce the experimental results of our WACV paper. In contrast to their approach, the proposed contributions have been clearly highlighted [here](https://arxiv.org/abs/1709.06057). For successful execution of our tracker `SiameseFC-DSR`, please follow the instructions given below.
 - - - -
 SiameseFC-DSR
 - - - -
