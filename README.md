@@ -2,7 +2,7 @@
 - - - -
 WACV published Paper : <https://ieeexplore.ieee.org/document/8354224>
 
-The code in this repository is built upon the work done by Luca Bertinetto et al. in "Fully-Convolutional Siamese Networks for Object Tracking". We thank Luca and his co-authors for making their code publicly available. It helped us build the baseline for participating in the visual object tracking challenge. The code in this repository is expected to reproduce the experimental results of our WACV paper. In contrast to their approach, the proposed contributions have been clearly highlighted [here](https://arxiv.org/abs/1709.06057). For successful execution of our tracker `SiameseFC-DSR`, please follow the instructions given below.
+The code in this repository is built upon the work done by Luca Bertinetto et al. in "Fully-Convolutional Siamese Networks for Object Tracking". We thank Luca and his co-authors for making their code public. It helped us build the baseline for participating in the visual object tracking challenge. It is expected to reproduce the results reported in our WACV [paper](https://arxiv.org/abs/1709.06057). For execution of our tracker `SiameseFC-DSR`, please follow the instructions given below.
 - - - -
 SiameseFC-DSR
 - - - -
@@ -30,10 +30,10 @@ If you find our work useful, please cite:
   2. Clone the repository.
   3. Download one of the pretrained networks from <http://www.robots.ox.ac.uk/~luca/siamese-fc.html>
   4. Go to `SiameseFC-DSR/tracking/` and edit `env_paths_tracking.m`, `startup.m` appropriately.
-  5. Be sure to have at least one video sequence in the appropriate format. You can find an example here in the repository (`SiameseFC-DSR/demo-sequences/vot15_bag`).
+  5. Be sure to have at least one video sequence in the required format. You can find an example here in the repository (`SiameseFC-DSR/demo-sequences/vot15_bag`).
   6. `SiameseFC-DSR/tracking/tracker.m` is the entry point to execute the tracker, have fun! Alternatively, one can edit `run_tracker.m` to call the `tracker.m` function and execute the tracker.
 
  [ **Training and tracking** ] We have not trained our model from scratch, therefore we request the reader to follow the instructions of original SiameseFC [training and tracking] (https://github.com/bertinetto/siamese-fc) in order to train the model.
 
-Note: The hyper parameters in the provided code may not be exactly what we have used for our evaluation. So we request the reader to go through our paper to use the exact hyper parameter settings. However, the provided code is suitable for understanding the key contributions of the paper.
+Note: The hyper parameters in the provided code may not be exactly what we have used for our evaluation. The exact hyper-parameters are given in the paper. The code is suitable for understanding the key contributions.
 `This work can only be used for research purposes. For commercial use of this work, please contact the authors.`
