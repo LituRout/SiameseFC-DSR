@@ -36,4 +36,3 @@ If you find our work useful, please cite:
  [ **Training and tracking** ] We have not trained our model from scratch, therefore we request the reader to follow the instructions of original SiameseFC [training and tracking] (https://github.com/bertinetto/siamese-fc) in order to train the model.
 
 Note: The hyper parameters in the provided code may not be exactly what we have used for our evaluation. The exact hyper-parameters are given in the paper. The code is suitable for understanding the key contributions.
-`This work can only be used for research purposes. For commercial use of this work, please contact the authors.`
